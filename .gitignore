@@ -1,0 +1,5 @@
+Makefile
+Template.cpp
+*.in
+*.out
+*.exe
